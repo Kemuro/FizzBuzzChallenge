@@ -1,0 +1,13 @@
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.exe
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.deps.json
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.runtimeconfig.dev.json
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.dll
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.pdb
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.csprojAssemblyReference.cache
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.dll
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.pdb
+C:\Users\anton\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.genruntimeconfig.cache
